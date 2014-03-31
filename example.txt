@@ -1,0 +1,10 @@
+CS6740 ProblemSet 02 
+fcrypt jar
+- coding finished!
+- jar file generated!
+- Tested and prepare for upload.
+
+Feb 8th, 2014 @ Boston,MA
+Each student should submit his own report: NO TEAM work.
+
+The application should operate as follows. For encryption and signatures:• java fcrypt -e destination_public_key_filename sender_private_key_filename input_plaintext_file output_ciphertext_fileand for decryption and signature verification:• java fcrypt -d destination_private_key_filename sender_public_key_filename input_ciphertext_file output_plaintext_file
